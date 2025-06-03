@@ -1,3 +1,6 @@
 === Resultados por estudiante ===
+Eduardo Jordan: Notas: [8.0, 8.0, 8.0, 8.0, 8.0, 8.0] | Promedio: 8.00
+raul: Notas: [8.0, 8.0, 8.0, 8.0, 8.0] | Promedio: 8.00
+Abraham: Notas: [7.0, 7.0, 7.0, 7.0, 7.0, 7.0] | Promedio: 7.00
 
-No hay estudiantes para evaluar.
+🏅 Mejor estudiante: Eduardo Jordan con promedio 8.00
